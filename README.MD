@@ -18,3 +18,8 @@ or for another example
 F# Major < Db Major > Ab Major
            ^
 ```
+
+
+## Other Features to add
+- Colored console output
+- Full object testing
